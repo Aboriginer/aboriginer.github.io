@@ -37,13 +37,13 @@ My recent work includes:
 
 - AlphaApollo: Orchestrating Foundation Models and Professional Tools into a Self-Evolving System for Deep Agentic Reasoning<br>
 Zhanke Zhou, **Chentao Cao**, Xiao Feng, Xuan Li, Zongze Li, Xiangyu Lu, Jiangchao Yao, Weikai Huang, Linrui Xu, Tian Cheng, Guanyu Jiang, Yiming Zheng, Brando Miranda, Tongliang Liu, Sanmi Koyejo, Masashi Sugiyama, Bo Han<br>
-[[Paper]](https://arxiv.org/pdf/2510.06261) [[Code]](https://github.com/tmlr-group/AlphaApollo)
+Technical Report. [[Paper]](https://arxiv.org/pdf/2510.06261) [[Code]](https://github.com/tmlr-group/AlphaApollo)
 
 ## Selected Conference
 
 - Reasoned Safety Alignment: Ensuring Jailbreak Defense via Answer-Then-Check<br>
 **Chentao Cao**, Xiaojun Xu, Bo Han†, Hang Li.<br>
-ICLR 2026. [[Paper]](https://arxiv.org/pdf/2509.11629) [[Website]](https://resa-bytedance.github.io/) [[Dataset]](https://huggingface.co/datasets/ByteDance-Seed/ReSA)
+In ICLR 2026. [[Paper]](https://arxiv.org/pdf/2509.11629) [[Website]](https://resa-bytedance.github.io/) [[Dataset]](https://huggingface.co/datasets/ByteDance-Seed/ReSA)
 
 - DualCnst: Enhancing Zero-Shot Out-of-Distribution Detection via Text-Image Consistency in Vision-Language Models<br>
 Fayi Le, Wenwu He†, **Chentao Cao**, Dong Liang†, Zhuo-Xu Cui†.<br>
@@ -51,15 +51,15 @@ NeurIPS 2025. [[Paper]](https://openreview.net/pdf?id=6uwV6ytamU) [[Code]](https
 
 - From Debate to Equilibrium: Belief-Driven Multi-Agent LLM Reasoning via Bayesian Nash Equilibrium<br>
 Yi Xie, Zhanke Zhou, **Chentao Cao**, Qiyu Niu, Tongliang Liu, Bo Han†.<br>
-ICML 2025. [[Paper]](https://arxiv.org/pdf/2506.08292) [[Code]](https://github.com/tmlr-group/ECON)
+In ICML 2025. [[Paper]](https://arxiv.org/pdf/2506.08292) [[Code]](https://github.com/tmlr-group/ECON)
 
 - Noisy Test-Time Adaptation in Vision-Language Models<br>
 **Chentao Cao**, Zhun Zhong†, Zhanke Zhou, Tongliang Liu, Yang Liu, Kun Zhang, Bo Han†.<br>
-ICLR 2025. [[Paper]](https://arxiv.org/pdf/2502.14604) [[Code]](https://github.com/tmlr-group/ZS-NTTA)
+In ICLR 2025. [[Paper]](https://arxiv.org/pdf/2502.14604) [[Code]](https://github.com/tmlr-group/ZS-NTTA)
 
 - Envisioning Outlier Exposure by Large Language Models for Out-of-Distribution Detection<br>
 **Chentao Cao**, Zhun Zhong†, Zhanke Zhou, Yang Liu, Tongliang Liu, Bo Han†.<br>
-ICML 2024. [[Paper]](https://arxiv.org/pdf/2406.00806) [[Code]](https://github.com/tmlr-group/EOE)
+In ICML 2024. [[Paper]](https://arxiv.org/pdf/2406.00806) [[Code]](https://github.com/tmlr-group/EOE)
 
 ## Selected Journal
 
@@ -95,4 +95,6 @@ IEEE Transactions on Medical Imaging, 2024. [[Paper]](https://arxiv.org/pdf/2208
 - Teaching Assistant for COMP7025 (G) Artificial Intelligence for Digital Transformation, Sem. 2, 2024.
 
 <br>
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=xAu4Mkp0NArssBb6bfFjG1yx7QWKZyxizECvptuGDO0&cl=ffffff&w=a"></script>
+<div align="center">
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=xAu4Mkp0NArssBb6bfFjG1yx7QWKZyxizECvptuGDO0&cl=ffffff&w=200&t=m"></script>
+</div>
