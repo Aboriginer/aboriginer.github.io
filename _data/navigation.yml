@@ -3,7 +3,7 @@ main:
     url: "/#about-me"
 
   - title: "Education"
-    url: "/#education-and-experience"
+    url: "/#education"
 
   - title: "Publication"
     url: "/#selected-publications"

@@ -24,7 +24,7 @@ My recent work includes:
 - Trustworthy Foundation Models: [[ReSA]](https://arxiv.org/pdf/2509.11629), [[NoisyTTA]](https://arxiv.org/pdf/2502.14604), [[EOE]](https://arxiv.org/pdf/2406.00806)
 
 
-# Education and Experience
+# Education
 - *2024.09 - present*, Ph.D. Student, TMLR Group, Hong Kong Baptist University, advised by [Prof. Bo Han](https://bhanml.github.io/), worked closely with [Prof. Zhun Zhong](https://zhunzhong.site/).
 - *2020.09 - 2023.06*, M.E. in Computer Technology, University of Chinese Academy of Sciences, advised by [Prof. Yanjie Zhu](https://scholar.google.com/citations?user=X2mIoQ4AAAAJ&hl=en) and [Prof. Dong Liang](https://scholar.google.com/citations?user=3cAJWoIAAAAJ&hl=en), worked closely with [Prof. Zhuo-Xu Cui](https://zhuoxucui.github.io/).
 - *2016.09 – 2020.06*, B.E. in Communication Engineering, Harbin Institute of Technology.
@@ -43,40 +43,33 @@ Zhanke Zhou, **Chentao Cao**, Xiao Feng, Xuan Li, Zongze Li, Xiangyu Lu, Jiangch
 
 - Reasoned Safety Alignment: Ensuring Jailbreak Defense via Answer-Then-Check<br>
 **Chentao Cao**, Xiaojun Xu, Bo Han†, Hang Li.<br>
-In International Conference on Learning Representations (ICLR 2026), 2026.<br>
-[[Paper]](https://arxiv.org/pdf/2509.11629) [[Website]](https://resa-bytedance.github.io/) [[Dataset]](https://huggingface.co/datasets/ByteDance-Seed/ReSA)
+ICLR 2026. [[Paper]](https://arxiv.org/pdf/2509.11629) [[Website]](https://resa-bytedance.github.io/) [[Dataset]](https://huggingface.co/datasets/ByteDance-Seed/ReSA)
 
 - DualCnst: Enhancing Zero-Shot Out-of-Distribution Detection via Text-Image Consistency in Vision-Language Models<br>
 Fayi Le, Wenwu He†, **Chentao Cao**, Dong Liang†, Zhuo-Xu Cui†.<br>
-In Advances in Neural Information Processing Systems (NeurIPS 2025), 2025.<br>
-[[Paper]](https://openreview.net/pdf?id=6uwV6ytamU) [[Code]](https://github.com/TMLSIAT/DualCnst)
+NeurIPS 2025. [[Paper]](https://openreview.net/pdf?id=6uwV6ytamU) [[Code]](https://github.com/TMLSIAT/DualCnst)
 
 - From Debate to Equilibrium: Belief-Driven Multi-Agent LLM Reasoning via Bayesian Nash Equilibrium<br>
 Yi Xie, Zhanke Zhou, **Chentao Cao**, Qiyu Niu, Tongliang Liu, Bo Han†.<br>
-In International Conference on Machine Learning (ICML 2025), 2025.<br>
-[[Paper]](https://arxiv.org/pdf/2506.08292) [[Code]](https://github.com/tmlr-group/ECON)
+ICML 2025. [[Paper]](https://arxiv.org/pdf/2506.08292) [[Code]](https://github.com/tmlr-group/ECON)
 
 - Noisy Test-Time Adaptation in Vision-Language Models<br>
 **Chentao Cao**, Zhun Zhong†, Zhanke Zhou, Tongliang Liu, Yang Liu, Kun Zhang, Bo Han†.<br>
-In International Conference on Learning Representations (ICLR 2025), 2025.<br>
-[[Paper]](https://arxiv.org/pdf/2502.14604) [[Code]](https://github.com/tmlr-group/ZS-NTTA)
+ICLR 2025. [[Paper]](https://arxiv.org/pdf/2502.14604) [[Code]](https://github.com/tmlr-group/ZS-NTTA)
 
 - Envisioning Outlier Exposure by Large Language Models for Out-of-Distribution Detection<br>
 **Chentao Cao**, Zhun Zhong†, Zhanke Zhou, Yang Liu, Tongliang Liu, Bo Han†.<br>
-In International Conference on Machine Learning (ICML 2024), 2024.<br>
-[[Paper]](https://arxiv.org/pdf/2406.00806) [[Code]](https://github.com/tmlr-group/EOE)
+ICML 2024. [[Paper]](https://arxiv.org/pdf/2406.00806) [[Code]](https://github.com/tmlr-group/EOE)
 
 ## Selected Journal
 
 - SPIRiT-Diffusion: Self-Consistency Driven Diffusion Model for Accelerated MRI<br>
 Zhuo-Xu Cui\*, **Chentao Cao**\*, Yue Wang\*, Sen Jia, Jing Cheng, Xin Liu, Hairong Zheng, Dong Liang†, Yanjie Zhu†<br>
-IEEE Transactions on Medical Imaging, 2024.<br>
-[[Paper]](https://arxiv.org/pdf/2304.05060) [[Code]](https://github.com/zhyjSIAT/SPIRiT-Diffusion)
+IEEE Transactions on Medical Imaging, 2024. [[Paper]](https://arxiv.org/pdf/2304.05060) [[Code]](https://github.com/zhyjSIAT/SPIRiT-Diffusion)
 
 - High-Frequency Space Diffusion Model for Accelerated MRI<br>
 **Chentao Cao**\*, Zhuo-Xu Cui\*, Yue Wang\*, Shaonan Liu, Taijin Chen, Hairong Zheng, Dong Liang, Yanjie Zhu†<br>
-IEEE Transactions on Medical Imaging, 2024.<br>
-[[Paper]](https://arxiv.org/pdf/2208.05481) [[Code]](https://github.com/Aboriginer/HFS-SDE)
+IEEE Transactions on Medical Imaging, 2024. [[Paper]](https://arxiv.org/pdf/2208.05481) [[Code]](https://github.com/Aboriginer/HFS-SDE)
 
 # Awards
 - *2024.06*, ICML Travel Award.
