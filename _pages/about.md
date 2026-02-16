@@ -47,7 +47,7 @@ In ICLR 2026. [[Paper]](https://arxiv.org/pdf/2509.11629) [[Website]](https://re
 
 - DualCnst: Enhancing Zero-Shot Out-of-Distribution Detection via Text-Image Consistency in Vision-Language Models<br>
 Fayi Le, Wenwu He†, **Chentao Cao**, Dong Liang†, Zhuo-Xu Cui†.<br>
-NeurIPS 2025. [[Paper]](https://openreview.net/pdf?id=6uwV6ytamU) [[Code]](https://github.com/TMLSIAT/DualCnst)
+In NeurIPS 2025. [[Paper]](https://openreview.net/pdf?id=6uwV6ytamU) [[Code]](https://github.com/TMLSIAT/DualCnst)
 
 - From Debate to Equilibrium: Belief-Driven Multi-Agent LLM Reasoning via Bayesian Nash Equilibrium<br>
 Yi Xie, Zhanke Zhou, **Chentao Cao**, Qiyu Niu, Tongliang Liu, Bo Han†.<br>
@@ -95,6 +95,4 @@ IEEE Transactions on Medical Imaging, 2024. [[Paper]](https://arxiv.org/pdf/2208
 - Teaching Assistant for COMP7025 (G) Artificial Intelligence for Digital Transformation, Sem. 2, 2024.
 
 <br>
-<div align="center">
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=xAu4Mkp0NArssBb6bfFjG1yx7QWKZyxizECvptuGDO0&cl=ffffff&w=200&t=m"></script>
-</div>
