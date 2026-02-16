@@ -35,47 +35,47 @@ My recent work includes:
 
 ## Selected Preprint
 
-- AlphaApollo: Orchestrating Foundation Models and Professional Tools into a Self-Evolving System for Deep Agentic Reasoning
-Zhanke Zhou, **Chentao Cao**, Xiao Feng, Xuan Li, Zongze Li, Xiangyu Lu, Jiangchao Yao, Weikai Huang, Linrui Xu, Tian Cheng, Guanyu Jiang, Yiming Zheng, Brando Miranda, Tongliang Liu, Sanmi Koyejo, Masashi Sugiyama, Bo Han
+- AlphaApollo: Orchestrating Foundation Models and Professional Tools into a Self-Evolving System for Deep Agentic Reasoning<br>
+Zhanke Zhou, **Chentao Cao**, Xiao Feng, Xuan Li, Zongze Li, Xiangyu Lu, Jiangchao Yao, Weikai Huang, Linrui Xu, Tian Cheng, Guanyu Jiang, Yiming Zheng, Brando Miranda, Tongliang Liu, Sanmi Koyejo, Masashi Sugiyama, Bo Han<br>
 [[Paper]](https://arxiv.org/pdf/2510.06261) [[Code]](https://github.com/tmlr-group/AlphaApollo)
 
 ## Selected Conference
 
-- Reasoned Safety Alignment: Ensuring Jailbreak Defense via Answer-Then-Check
-**Chentao Cao**, Xiaojun Xu, Bo Han†, Hang Li.
-In International Conference on Learning Representations (ICLR 2026), 2026.
+- Reasoned Safety Alignment: Ensuring Jailbreak Defense via Answer-Then-Check<br>
+**Chentao Cao**, Xiaojun Xu, Bo Han†, Hang Li.<br>
+In International Conference on Learning Representations (ICLR 2026), 2026.<br>
 [[Paper]](https://arxiv.org/pdf/2509.11629) [[Website]](https://resa-bytedance.github.io/) [[Dataset]](https://huggingface.co/datasets/ByteDance-Seed/ReSA)
 
-- DualCnst: Enhancing Zero-Shot Out-of-Distribution Detection via Text-Image Consistency in Vision-Language Models
-Fayi Le, Wenwu He†, **Chentao Cao**, Dong Liang†, Zhuo-Xu Cui†.
-In Advances in Neural Information Processing Systems (NeurIPS 2025), 2025.
+- DualCnst: Enhancing Zero-Shot Out-of-Distribution Detection via Text-Image Consistency in Vision-Language Models<br>
+Fayi Le, Wenwu He†, **Chentao Cao**, Dong Liang†, Zhuo-Xu Cui†.<br>
+In Advances in Neural Information Processing Systems (NeurIPS 2025), 2025.<br>
 [[Paper]](https://openreview.net/pdf?id=6uwV6ytamU) [[Code]](https://github.com/TMLSIAT/DualCnst)
 
-- From Debate to Equilibrium: Belief-Driven Multi-Agent LLM Reasoning via Bayesian Nash Equilibrium
-Yi Xie, Zhanke Zhou, **Chentao Cao**, Qiyu Niu, Tongliang Liu, Bo Han†.
-In International Conference on Machine Learning (ICML 2025), 2025.
+- From Debate to Equilibrium: Belief-Driven Multi-Agent LLM Reasoning via Bayesian Nash Equilibrium<br>
+Yi Xie, Zhanke Zhou, **Chentao Cao**, Qiyu Niu, Tongliang Liu, Bo Han†.<br>
+In International Conference on Machine Learning (ICML 2025), 2025.<br>
 [[Paper]](https://arxiv.org/pdf/2506.08292) [[Code]](https://github.com/tmlr-group/ECON)
 
-- Noisy Test-Time Adaptation in Vision-Language Models
-**Chentao Cao**, Zhun Zhong†, Zhanke Zhou, Tongliang Liu, Yang Liu, Kun Zhang, Bo Han†.
-In International Conference on Learning Representations (ICLR 2025), 2025.
+- Noisy Test-Time Adaptation in Vision-Language Models<br>
+**Chentao Cao**, Zhun Zhong†, Zhanke Zhou, Tongliang Liu, Yang Liu, Kun Zhang, Bo Han†.<br>
+In International Conference on Learning Representations (ICLR 2025), 2025.<br>
 [[Paper]](https://arxiv.org/pdf/2502.14604) [[Code]](https://github.com/tmlr-group/ZS-NTTA)
 
-- Envisioning Outlier Exposure by Large Language Models for Out-of-Distribution Detection
-**Chentao Cao**, Zhun Zhong†, Zhanke Zhou, Yang Liu, Tongliang Liu, Bo Han†.
-In International Conference on Machine Learning (ICML 2024), 2024.
+- Envisioning Outlier Exposure by Large Language Models for Out-of-Distribution Detection<br>
+**Chentao Cao**, Zhun Zhong†, Zhanke Zhou, Yang Liu, Tongliang Liu, Bo Han†.<br>
+In International Conference on Machine Learning (ICML 2024), 2024.<br>
 [[Paper]](https://arxiv.org/pdf/2406.00806) [[Code]](https://github.com/tmlr-group/EOE)
 
 ## Selected Journal
 
-- SPIRiT-Diffusion: Self-Consistency Driven Diffusion Model for Accelerated MRI
-Zhuo-Xu Cui\*, **Chentao Cao**\*, Yue Wang\*, Sen Jia, Jing Cheng, Xin Liu, Hairong Zheng, Dong Liang†, Yanjie Zhu†
-IEEE Transactions on Medical Imaging, 2024.
+- SPIRiT-Diffusion: Self-Consistency Driven Diffusion Model for Accelerated MRI<br>
+Zhuo-Xu Cui\*, **Chentao Cao**\*, Yue Wang\*, Sen Jia, Jing Cheng, Xin Liu, Hairong Zheng, Dong Liang†, Yanjie Zhu†<br>
+IEEE Transactions on Medical Imaging, 2024.<br>
 [[Paper]](https://arxiv.org/pdf/2304.05060) [[Code]](https://github.com/zhyjSIAT/SPIRiT-Diffusion)
 
-- High-Frequency Space Diffusion Model for Accelerated MRI
-**Chentao Cao**\*, Zhuo-Xu Cui\*, Yue Wang\*, Shaonan Liu, Taijin Chen, Hairong Zheng, Dong Liang, Yanjie Zhu†
-IEEE Transactions on Medical Imaging, 2024.
+- High-Frequency Space Diffusion Model for Accelerated MRI<br>
+**Chentao Cao**\*, Zhuo-Xu Cui\*, Yue Wang\*, Shaonan Liu, Taijin Chen, Hairong Zheng, Dong Liang, Yanjie Zhu†<br>
+IEEE Transactions on Medical Imaging, 2024.<br>
 [[Paper]](https://arxiv.org/pdf/2208.05481) [[Code]](https://github.com/Aboriginer/HFS-SDE)
 
 # Awards

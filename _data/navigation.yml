@@ -3,19 +3,19 @@ main:
     url: "/#about-me"
 
   - title: "Education"
-    url: "/#-education-and-experience"
+    url: "/#education-and-experience"
 
   - title: "Publication"
-    url: "/#-selected-publications"
+    url: "/#selected-publications"
 
   - title: "Award"
-    url: "/#-awards"
+    url: "/#awards"
 
   - title: "Talk"
-    url: "/#-talks"
+    url: "/#talks"
 
   - title: "Service"
-    url: "/#-professional-service"
+    url: "/#tutorials-organizer"
 
   - title: "Teaching"
-    url: "/#-teaching"
+    url: "/#teaching"
