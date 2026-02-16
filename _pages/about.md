@@ -3,7 +3,7 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -17,42 +17,86 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am Chentao Cao, a second-year Ph.D. student at [TMLR group](https://bhanml.github.io/group.html) of Hong Kong Baptist University, advised by [Prof. Bo Han](https://bhanml.github.io/) and working with [Prof. Zhun Zhong](https://zhunzhong.site/). My research focuses on **trustworthy machine reasoning with foundation models**. I hope my research can help machines collaborate with humans for the common good.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My recent work includes:
+- Agentic Systems for complex reasoning: [[AlphaApollo]](https://arxiv.org/pdf/2510.06261)
+- Trustworthy Foundation Models: [[ReSA]](https://arxiv.org/pdf/2509.11629), [[NoisyTTA]](https://arxiv.org/pdf/2502.14604), [[EOE]](https://arxiv.org/pdf/2406.00806)
 
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# Education and Experience
+- *2024.09 - present*, Ph.D. Student, TMLR Group, Hong Kong Baptist University, advised by [Prof. Bo Han](https://bhanml.github.io/), worked closely with [Prof. Zhun Zhong](https://zhunzhong.site/).
+- *2020.09 - 2023.06*, M.E. in Computer Technology, University of Chinese Academy of Sciences, advised by [Prof. Yanjie Zhu](https://scholar.google.com/citations?user=X2mIoQ4AAAAJ&hl=en) and [Prof. Dong Liang](https://scholar.google.com/citations?user=3cAJWoIAAAAJ&hl=en), worked closely with [Prof. Zhuo-Xu Cui](https://zhuoxucui.github.io/).
+- *2016.09 – 2020.06*, B.E. in Communication Engineering, Harbin Institute of Technology.
 
-# 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+# Selected Publications
+\* Co-first author, † Corresponding author.
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+## Selected Preprint
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+- AlphaApollo: Orchestrating Foundation Models and Professional Tools into a Self-Evolving System for Deep Agentic Reasoning
+Zhanke Zhou, **Chentao Cao**, Xiao Feng, Xuan Li, Zongze Li, Xiangyu Lu, Jiangchao Yao, Weikai Huang, Linrui Xu, Tian Cheng, Guanyu Jiang, Yiming Zheng, Brando Miranda, Tongliang Liu, Sanmi Koyejo, Masashi Sugiyama, Bo Han
+[[Paper]](https://arxiv.org/pdf/2510.06261) [[Code]](https://github.com/tmlr-group/AlphaApollo)
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+## Selected Conference
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- Reasoned Safety Alignment: Ensuring Jailbreak Defense via Answer-Then-Check
+**Chentao Cao**, Xiaojun Xu, Bo Han†, Hang Li.
+In International Conference on Learning Representations (ICLR 2026), 2026.
+[[Paper]](https://arxiv.org/pdf/2509.11629) [[Website]](https://resa-bytedance.github.io/) [[Dataset]](https://huggingface.co/datasets/ByteDance-Seed/ReSA)
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- DualCnst: Enhancing Zero-Shot Out-of-Distribution Detection via Text-Image Consistency in Vision-Language Models
+Fayi Le, Wenwu He†, **Chentao Cao**, Dong Liang†, Zhuo-Xu Cui†.
+In Advances in Neural Information Processing Systems (NeurIPS 2025), 2025.
+[[Paper]](https://openreview.net/pdf?id=6uwV6ytamU) [[Code]](https://github.com/TMLSIAT/DualCnst)
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- From Debate to Equilibrium: Belief-Driven Multi-Agent LLM Reasoning via Bayesian Nash Equilibrium
+Yi Xie, Zhanke Zhou, **Chentao Cao**, Qiyu Niu, Tongliang Liu, Bo Han†.
+In International Conference on Machine Learning (ICML 2025), 2025.
+[[Paper]](https://arxiv.org/pdf/2506.08292) [[Code]](https://github.com/tmlr-group/ECON)
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- Noisy Test-Time Adaptation in Vision-Language Models
+**Chentao Cao**, Zhun Zhong†, Zhanke Zhou, Tongliang Liu, Yang Liu, Kun Zhang, Bo Han†.
+In International Conference on Learning Representations (ICLR 2025), 2025.
+[[Paper]](https://arxiv.org/pdf/2502.14604) [[Code]](https://github.com/tmlr-group/ZS-NTTA)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- Envisioning Outlier Exposure by Large Language Models for Out-of-Distribution Detection
+**Chentao Cao**, Zhun Zhong†, Zhanke Zhou, Yang Liu, Tongliang Liu, Bo Han†.
+In International Conference on Machine Learning (ICML 2024), 2024.
+[[Paper]](https://arxiv.org/pdf/2406.00806) [[Code]](https://github.com/tmlr-group/EOE)
+
+## Selected Journal
+
+- SPIRiT-Diffusion: Self-Consistency Driven Diffusion Model for Accelerated MRI
+Zhuo-Xu Cui\*, **Chentao Cao**\*, Yue Wang\*, Sen Jia, Jing Cheng, Xin Liu, Hairong Zheng, Dong Liang†, Yanjie Zhu†
+IEEE Transactions on Medical Imaging, 2024.
+[[Paper]](https://arxiv.org/pdf/2304.05060) [[Code]](https://github.com/zhyjSIAT/SPIRiT-Diffusion)
+
+- High-Frequency Space Diffusion Model for Accelerated MRI
+**Chentao Cao**\*, Zhuo-Xu Cui\*, Yue Wang\*, Shaonan Liu, Taijin Chen, Hairong Zheng, Dong Liang, Yanjie Zhu†
+IEEE Transactions on Medical Imaging, 2024.
+[[Paper]](https://arxiv.org/pdf/2208.05481) [[Code]](https://github.com/Aboriginer/HFS-SDE)
+
+# Awards
+- *2024.06*, ICML Travel Award.
+
+
+# Talks
+- *2025.03*, Noisy Test-Time Adaptation in Vision-Language Models @AI Time, Online.
+- *2024.06*, Envisioning Outlier Exposure by Large Language Models for Out-of-Distribution Detection @AI Time, Online.
+
+
+# Tutorials Organizer
+- AAAI 2026 Tutorial on Trustworthy Machine Reasoning with Foundation Models.
+[[Website]](https://trustworthy-machine-reasoning.github.io/) [[Slides]](https://trustworthy-machine-reasoning.github.io/AAAI2026Tutorial-TH10-slides-20250120-v6.pdf)
+
+# Program Committee/Reviewer
+- Program Committee/Reviewer: NeurIPS, ICML, ICLR.
+- Journal Reviewer: TPAMI, IJCV, JAIR, NEUNET.
+
+
+# Teaching
+- Teaching Assistant for COMP3065 (UG) Artificial Intelligence Application Development, Sem. 2, 2025.
+- Teaching Assistant for COMP7025 (G) Artificial Intelligence for Digital Transformation, Sem. 1, 2025.
+- Teaching Assistant for COMP7025 (G) Artificial Intelligence for Digital Transformation, Sem. 2, 2024.
