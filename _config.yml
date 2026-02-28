@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Chentao Cao (曹晨涛)"
-description              : "Chentao Cao (曹晨涛) - Focus on Trustworthy Machine Reasoning."
+title                    : "Chentao Cao"
+description              : "Focus on Trustworthy Machine Reasoning."
 url                      : "https://aboriginer.github.io"
 repository               : "aboriginer/aboriginer.github.io"
 google_scholar_stats_use_cdn : true
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Chentao Cao (曹晨涛)"
+  name             : "Chentao Cao"
   avatar           : "images/Avatar-square.jpg"
   bio              : "Ph.D. student at TMLR Group of HKBU."
   location         :
