@@ -35,13 +35,13 @@ My recent work includes:
 
 ## Selected Preprint
 
-- AlphaApollo: Orchestrating Foundation Models and Professional Tools into a Self-Evolving System for Deep Agentic Reasoning<br>
+- 🔥🔥🔥 AlphaApollo: Orchestrating Foundation Models and Professional Tools into a Self-Evolving System for Deep Agentic Reasoning<br>
 Zhanke Zhou, **Chentao Cao**, Xiao Feng, Xuan Li, Zongze Li, Xiangyu Lu, Jiangchao Yao, Weikai Huang, Linrui Xu, Tian Cheng, Guanyu Jiang, Yiming Zheng, Brando Miranda, Tongliang Liu, Sanmi Koyejo, Masashi Sugiyama, Bo Han<br>
 Technical Report. [[Paper]](https://arxiv.org/pdf/2510.06261) [[Code]](https://github.com/tmlr-group/AlphaApollo)
 
 ## Selected Conference
 
-- Reasoned Safety Alignment: Ensuring Jailbreak Defense via Answer-Then-Check<br>
+- 🔥🔥🔥 Reasoned Safety Alignment: Ensuring Jailbreak Defense via Answer-Then-Check<br>
 **Chentao Cao**, Xiaojun Xu, Bo Han†, Hang Li.<br>
 In ICLR 2026. [[Paper]](https://arxiv.org/pdf/2509.11629) [[Website]](https://resa-bytedance.github.io/) [[Dataset]](https://huggingface.co/datasets/ByteDance-Seed/ReSA)
 
