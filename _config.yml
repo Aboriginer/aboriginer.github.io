@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Chentao Cao (曹晨涛)"
-description              : "Chentao Cao (曹晨涛) - Ph.D. student at HKBU TMLR Group, research on trustworthy machine reasoning with foundation models, out-of-distribution detection, and vision-language models."
+description              : "Chentao Cao (曹晨涛) - Focus on Trustworthy Machine Reasoning."
 url                      : "https://aboriginer.github.io"
 repository               : "aboriginer/aboriginer.github.io"
 google_scholar_stats_use_cdn : true
