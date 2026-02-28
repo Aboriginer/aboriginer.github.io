@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Chentao Cao (曹晨涛)"
+title                    : "Chentao Cao"
 description              : "Focus on Trustworthy Machine Reasoning."
 url                      : "https://aboriginer.github.io"
 repository               : "aboriginer/aboriginer.github.io"
