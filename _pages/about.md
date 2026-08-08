@@ -36,7 +36,7 @@ My recent work includes:
 ## Selected Preprint
 
 - 🔥🔥🔥 AlphaApollo: A System for Deep Agentic Reasoning<br>
-Zhanke Zhou, **Chentao Cao**, Xiao Feng, Xuan Li, Zongze Li, Xiangyu Lu, Jiangchao Yao, Weikai Huang, Linrui Xu, Tian Cheng, Guanyu Jiang, Yiming Zheng, Brando Miranda, Tongliang Liu, Sanmi Koyejo, Masashi Sugiyama, Bo Han<br>
+Zhanke Zhou, **Chentao Cao**, Xiao Feng, Xuan Li, Zongze Li, Xiangyu Lu, Jiangchao Yao, Weikai Huang, Linrui Xu, Tian Cheng, Guanyu Jiang, Yiming Zheng, Brando Miranda, Tongliang Liu, Sanmi Koyejo, Masashi Sugiyama, Bo Han†<br>
 Technical Report. [[Paper]](https://arxiv.org/pdf/2510.06261) [[Code]](https://github.com/tmlr-group/AlphaApollo)
 
 - 🔥🔥🔥 AlphaDiana: A System for Evaluating Reasoning Agents<br>
@@ -46,7 +46,7 @@ Technical Report. [[Paper]](https://openreview.net/attachment?id=4vARlk9o95&name
 ## Selected Conference
 
 - 🔥🔥🔥 The Easy, the Hard, and the Learnable: Confidence and Difficulty-Adaptive Policy Optimization for LLM Reasoning<br>
-Zhanke Zhou*, Xiangyu Lu*, **Chentao Cao**, Brando Miranda, Tongliang Liu, Bo Han†, Sanmi Koyejo<br>
+Zhanke Zhou\*, Xiangyu Lu\*, **Chentao Cao**, Brando Miranda, Tongliang Liu, Bo Han†, Sanmi Koyejo<br>
 In ICML 2026. [[Paper]](https://arxiv.org/abs/2606.07950) [[Code]](https://github.com/tmlr-group/CoDaPO)
 
 - 🔥🔥🔥 Reasoned Safety Alignment: Ensuring Jailbreak Defense via Answer-Then-Check<br>
