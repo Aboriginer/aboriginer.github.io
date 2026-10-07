@@ -45,11 +45,15 @@ Technical Report. [[Paper]](https://openreview.net/attachment?id=4vARlk9o95&name
 
 ## Selected Conference
 
-- 🔥🔥🔥 The Easy, the Hard, and the Learnable: Confidence and Difficulty-Adaptive Policy Optimization for LLM Reasoning<br>
+- 🔥🔥🔥 Spatial Harness: Grounding Spatial Reasoning in Physics Engines via Executable World States<br>
+**Chentao Cao**\*, Zhanke Zhou\*, Sangni Duan, Bo Han†, Hang Li.<br>
+In NeurIPS 2026.
+
+- The Easy, the Hard, and the Learnable: Confidence and Difficulty-Adaptive Policy Optimization for LLM Reasoning<br>
 Zhanke Zhou\*, Xiangyu Lu\*, **Chentao Cao**, Brando Miranda, Tongliang Liu, Bo Han†, Sanmi Koyejo<br>
 In ICML 2026. [[Paper]](https://arxiv.org/abs/2606.07950) [[Code]](https://github.com/tmlr-group/CoDaPO)
 
-- 🔥🔥🔥 Reasoned Safety Alignment: Ensuring Jailbreak Defense via Answer-Then-Check<br>
+- Reasoned Safety Alignment: Ensuring Jailbreak Defense via Answer-Then-Check<br>
 **Chentao Cao**, Xiaojun Xu, Bo Han†, Hang Li.<br>
 In ICLR 2026. [[Paper]](https://arxiv.org/pdf/2509.11629) [[Website]](https://resa-bytedance.github.io/) [[Dataset]](https://huggingface.co/datasets/ByteDance-Seed/ReSA)
 
