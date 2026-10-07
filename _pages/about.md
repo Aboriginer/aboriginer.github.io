@@ -47,7 +47,7 @@ Technical Report. [[Paper]](https://openreview.net/attachment?id=4vARlk9o95&name
 
 - 🔥🔥🔥 Spatial Harness: Grounding Spatial Reasoning in Physics Engines via Executable World States<br>
 **Chentao Cao**\*, Zhanke Zhou\*, Sangni Duan, Bo Han†, Hang Li.<br>
-In NeurIPS 2026.
+In NeurIPS 2026. [[Paper]](https://aboriginer.github.io/) [[Code]](https://aboriginer.github.io/)
 
 - The Easy, the Hard, and the Learnable: Confidence and Difficulty-Adaptive Policy Optimization for LLM Reasoning<br>
 Zhanke Zhou\*, Xiangyu Lu\*, **Chentao Cao**, Brando Miranda, Tongliang Liu, Bo Han†, Sanmi Koyejo<br>
