@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Chentao Cao, a second-year Ph.D. student at [TMLR group](https://bhanml.github.io/group.html) of Hong Kong Baptist University, advised by [Prof. Bo Han](https://bhanml.github.io/) and working with [Prof. Zhun Zhong](https://zhunzhong.site/). My research focuses on **trustworthy machine reasoning with foundation models**. I hope my research can help machines collaborate with humans for the common good.
+I am Chentao Cao, a third-year Ph.D. student at [TMLR group](https://bhanml.github.io/group.html) of Hong Kong Baptist University, advised by [Prof. Bo Han](https://bhanml.github.io/) and working with [Prof. Zhun Zhong](https://zhunzhong.site/). My research focuses on **trustworthy machine reasoning with foundation models**. I hope my research can help machines collaborate with humans for the common good.
 
 My recent work includes:
 - Agentic Systems for Complex Reasoning: [[AlphaApollo]](https://arxiv.org/pdf/2510.06261)
