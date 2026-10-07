@@ -84,6 +84,7 @@ IEEE Transactions on Medical Imaging, 2024. [[Paper]](https://arxiv.org/pdf/2304
 IEEE Transactions on Medical Imaging, 2024. [[Paper]](https://arxiv.org/pdf/2208.05481) [[Code]](https://github.com/Aboriginer/HFS-SDE)
 
 # Awards
+- *2026.05*, Research Performance Award by COMP of HKBU.
 - *2024.06*, ICML Travel Award.
 
 
