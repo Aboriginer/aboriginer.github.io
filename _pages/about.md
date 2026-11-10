@@ -20,7 +20,7 @@ redirect_from:
 I am Chentao Cao, a third-year Ph.D. student at [TMLR group](https://bhanml.github.io/group.html) of Hong Kong Baptist University, advised by [Prof. Bo Han](https://bhanml.github.io/) and working with [Prof. Zhun Zhong](https://zhunzhong.site/). My research focuses on **trustworthy machine reasoning with foundation models**. I hope my research can help machines collaborate with humans for the common good.
 
 My recent work includes:
-- Agentic Systems for Complex Reasoning: [[AlphaApollo]](https://arxiv.org/pdf/2510.06261)
+- Agentic Systems for Complex Reasoning: [[Spatial Harness]](https://arxiv.org/pdf/2611.11344), [[AlphaApollo]](https://arxiv.org/pdf/2510.06261)
 - Trustworthy Foundation Models: [[ReSA]](https://arxiv.org/pdf/2509.11629), [[NoisyTTA]](https://arxiv.org/pdf/2502.14604), [[EOE]](https://arxiv.org/pdf/2406.00806)
 
 
@@ -45,9 +45,9 @@ Technical Report. [[Paper]](https://openreview.net/attachment?id=4vARlk9o95&name
 
 ## Selected Conference
 
-- 🔥🔥🔥 Spatial Harness: Grounding Spatial Reasoning in Physics Engines via Executable World States<br>
+- 🔥🔥🔥 Spatial Harness: Grounding Spatial Reasoning in Executable World States with Physics Engines<br>
 **Chentao Cao**\*, Zhanke Zhou\*, Sangni Duan, Bo Han†, Hang Li.<br>
-In NeurIPS 2026. [[Paper]](https://aboriginer.github.io/) [[Code]](https://aboriginer.github.io/)
+In NeurIPS 2026. [[Paper]](https://arxiv.org/pdf/2611.11344) [[Website]](https://spatial-harness.github.io/) [[Code]](https://github.com/tmlr-group/Spatial-Harness)
 
 - The Easy, the Hard, and the Learnable: Confidence and Difficulty-Adaptive Policy Optimization for LLM Reasoning<br>
 Zhanke Zhou\*, Xiangyu Lu\*, **Chentao Cao**, Brando Miranda, Tongliang Liu, Bo Han†, Sanmi Koyejo<br>
